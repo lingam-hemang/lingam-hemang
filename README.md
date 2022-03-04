@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lingam-hemang
+- 👋 Hi, I’m Lingam Hemang
 - 👀 I’m interested in Maching Learing and data handling
 - 🌱 I’m currently learning cloud computing and maching learning
 - 💞️ I’m looking to collaborate on ...
