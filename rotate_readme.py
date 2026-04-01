@@ -5,7 +5,8 @@ THEMES = [
     ("themes/netflix.md",  "🎬 Netflix"),
     ("themes/spotify.md",  "🎵 Spotify"),
     ("themes/apple.md",    "🍎 Apple"),
-    ("themes/aws.md",      "☁️  AWS"),
+    ("themes/aws.md",      "☁️ AWS"),
+    ("themes/jpmorgan.md", "🏦 JPMorgan"),
 ]
 
 INDEX_FILE = ".current_theme"
