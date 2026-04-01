@@ -2,7 +2,7 @@ name: Rotate README Theme
 
 on:
   schedule:
-    - cron: "0 0,6,12,18 * * *"   # Runs at 00:00, 06:00, 12:00, 18:00 UTC — 4 rotations/day
+    - cron: "0 0,4,9,14,19 * * *"   # Runs at 00:00, 04:00, 09:00, 14:00, 19:00 UTC — 5 rotations/day
   workflow_dispatch:                # Also allows manual trigger from GitHub Actions tab
 
 jobs:
