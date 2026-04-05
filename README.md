@@ -1,180 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00091C,100:00263A&height=200&text=Hemang%20Lingam.&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Software%20Engineer%20%E2%80%A2%20Gen%20AI%20Developer%20%E2%80%A2%20Builder&descSize=16&descColor=C8A951&descAlignY=72"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:1a0000&height=220&text=HEMANG%20LINGAM&fontSize=62&fontColor=E50914&animation=fadeIn&fontAlignY=52&desc=DATA%20ENGINEER%20%E2%80%A2%20GEN%20AI%20DEVELOPER%20%E2%80%A2%20BUILDER&descSize=15&descColor=808080&descAlignY=72"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3200&pause=1000&color=C8A951&center=true&vCenter=true&width=700&lines=Engineered+for+enterprise.;Built+for+scale+and+security.;From+pipeline+to+production+—+end+to+end.;Secure.+Stable.+Scalable.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=2500&pause=800&color=E50914&center=true&vCenter=true&width=700&lines=NOW+STREAMING%3A+Python+%7C+Snowflake+%7C+SQL;ORIGINAL+SERIES%3A+RAG+Pipelines+%26+LLM+Apps;NEW+RELEASE%3A+AWS+Bedrock+%26+LangChain;COMING+SOON%3A+Multi-Agent+AI+Systems)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hemanglingam/">
-  <img src="https://img.shields.io/badge/LinkedIn-00263A?style=for-the-badge&logo=linkedin&logoColor=C8A951&label="/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:hemanglingam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00263A?style=for-the-badge&logo=gmail&logoColor=C8A951&label="/>
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/lingam-hemang">
-  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=00263A&label=VIEWS"/>
+<a href="https://github.com/hemanglingam">
+  <img src="https://komarev.com/ghpvc/?username=hemanglingam&style=for-the-badge&color=E50914&label=VIEWERS"/>
 </a>
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
+
+<div align="center">
+<img src="https://img.shields.io/badge/▶-NOW%20STREAMING-E50914?style=for-the-badge&logoColor=white"/>
+</div>
+
+<br/>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="58%">
 
-<h3>Introducing Hemang.</h3>
+**`EPISODE 01`** &nbsp; Who Is He
 
-> Specialist Programmer. 3.5+ years shipping production-grade systems.<br/>
-> He builds what enterprise demands — secure, stable, and scalable.
+```
+Specialist Programmer @ Infosys
+3+ years · Production-grade systems
+```
 
-&nbsp;
+- 🎬 &nbsp;Building **cloud-native data solutions** at scale
+- 🤖 &nbsp;Creating **Gen AI apps** — RAG pipelines, LLM tools, agentic workflows
+- ⚡ &nbsp;End-to-end builder: **ETL → Data Warehouse → AI-powered Web App**
+- ❄️ &nbsp;Expert in **Python, Snowflake, SQL, AWS Bedrock, LangChain**
+- 🌱 &nbsp;Exploring **multi-agent systems**, **vector DBs**, **serverless AI**
+- 🎓 &nbsp;B.Tech ECE — SRM IST &nbsp;*(CGPA: 9.52 / 10)*
 
-- Builds **cloud-native backend systems** — high-availability pipelines, distributed ingestion, and real-time Kafka streams at Apple's scale
-- Develops **Gen AI applications** — RAG pipelines, LLM tools, AWS Bedrock, agentic AI with LangChain
-- Writes clean, production-ready **Python, SQL, and REST APIs** backed by Django and Flask
-- Applies **SOLID principles, system design, and event-driven architecture** for fault isolation and horizontal scalability
-- B.Tech in ECE — SRM Institute of Science and Technology &nbsp;*(CGPA: 9.52 / 10)*
+> *"I ship only when it's done right — quality over quantity"*
 
 </td>
 <td valign="top" width="42%" align="center">
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
 <div align="center">
-<sub>W H A T &nbsp; H E &nbsp; B U I L D S</sub>
+<img src="https://img.shields.io/badge/▶-FEATURED%20GENRES-E50914?style=for-the-badge&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
-<table border="0" cellpadding="20">
+<table border="0" cellpadding="16">
 <tr>
-<td align="center" width="215">
+<td align="center" width="210">
 <img src="https://img.icons8.com/fluency/56/data-configuration.png"/><br/><br/>
-<b>Backend Engineering</b><br/><br/>
-<sub>Python · Django · Flask · REST API<br/>Microservices · CI/CD · System Design</sub>
+<b style="color:#E50914">Data Engineering</b><br/><br/>
+<sub>ETL/ELT · Snowflake · Airflow<br/>Kafka · AWS S3 · Warehousing</sub>
 </td>
-<td align="center" width="215">
+<td align="center" width="210">
 <img src="https://img.icons8.com/fluency/56/artificial-intelligence.png"/><br/><br/>
 <b>Gen AI &amp; LLM Apps</b><br/><br/>
-<sub>RAG · LangChain · AWS Bedrock<br/>Agentic AI · ChromaDB · Vectors</sub>
+<sub>RAG · LangChain · AWS Bedrock<br/>Ollama · ChromaDB · Vectors</sub>
 </td>
-<td align="center" width="215">
-<img src="https://img.icons8.com/fluency/56/cloud-computing.png"/><br/><br/>
-<b>Data &amp; Cloud Pipelines</b><br/><br/>
-<sub>Snowflake · Kafka · Airflow<br/>AWS S3 · Lambda · Distributed Systems</sub>
+<td align="center" width="210">
+<img src="https://img.icons8.com/fluency/56/api-settings.png"/><br/><br/>
+<b>Full-Stack APIs</b><br/><br/>
+<sub>Flask · Django · REST API<br/>scikit-learn · ML Inference</sub>
 </td>
 </tr>
 </table>
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
 <div align="center">
-<sub>T E C H N I C A L &nbsp; S P E C I F I C A T I O N S</sub>
+<img src="https://img.shields.io/badge/▶-TECH%20LINEUP-E50914?style=for-the-badge&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-**Languages**
+**`LANGUAGES`**
 
 [![Skills](https://skillicons.dev/icons?i=python,java,mysql&theme=dark)](https://skillicons.dev)
 
-<br/>
+**`AI · GEN AI · ML`**
 
-**AI / Gen AI / ML**
+![LangChain](https://img.shields.io/badge/LangChain-1a0000?style=for-the-badge&logo=langchain&logoColor=E50914)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-1a0000?style=for-the-badge&logo=amazonaws&logoColor=E50914)
+![Ollama](https://img.shields.io/badge/Ollama-1a0000?style=for-the-badge&logoColor=E50914)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0000?style=for-the-badge&logoColor=E50914)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0000?style=for-the-badge&logo=scikitlearn&logoColor=E50914)
 
-![LangChain](https://img.shields.io/badge/LangChain-00263A?style=for-the-badge&logo=langchain&logoColor=C8A951)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-00263A?style=for-the-badge&logo=amazonaws&logoColor=C8A951)
-![Ollama](https://img.shields.io/badge/Ollama-00263A?style=for-the-badge&logoColor=C8A951)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00263A?style=for-the-badge&logoColor=C8A951)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-00263A?style=for-the-badge&logo=scikitlearn&logoColor=C8A951)
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Web & Data**
+**`WEB · DATA`**
 
 [![Skills](https://skillicons.dev/icons?i=flask,django&theme=dark)](https://skillicons.dev)
 
-![Snowflake](https://img.shields.io/badge/Snowflake-00263A?style=for-the-badge&logo=snowflake&logoColor=C8A951)
-![Pandas](https://img.shields.io/badge/Pandas-00263A?style=for-the-badge&logo=pandas&logoColor=C8A951)
-![Kafka](https://img.shields.io/badge/Kafka-00263A?style=for-the-badge&logo=apachekafka&logoColor=C8A951)
+![Snowflake](https://img.shields.io/badge/Snowflake-1a0000?style=for-the-badge&logo=snowflake&logoColor=E50914)
+![Pandas](https://img.shields.io/badge/Pandas-1a0000?style=for-the-badge&logo=pandas&logoColor=E50914)
+![Kafka](https://img.shields.io/badge/Kafka-1a0000?style=for-the-badge&logo=apachekafka&logoColor=E50914)
 
-<br/>
-
-**Cloud & Tools**
+**`CLOUD · TOOLS`**
 
 [![Skills](https://skillicons.dev/icons?i=aws,git,github,linux,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-![Airflow](https://img.shields.io/badge/Airflow-00263A?style=for-the-badge&logo=apacheairflow&logoColor=C8A951)
-![Splunk](https://img.shields.io/badge/Splunk-00263A?style=for-the-badge&logo=splunk&logoColor=C8A951)
+![Airflow](https://img.shields.io/badge/Airflow-1a0000?style=for-the-badge&logo=apacheairflow&logoColor=E50914)
+![Splunk](https://img.shields.io/badge/Splunk-1a0000?style=for-the-badge&logo=splunk&logoColor=E50914)
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
 <div align="center">
-<sub>W H A T ' S &nbsp; N E X T</sub>
+<img src="https://img.shields.io/badge/▶-COMING%20SOON-E50914?style=for-the-badge&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | Capability | Details |
+| &nbsp; | Title | Synopsis |
 |:---:|:---|:---|
-| ◉ | **Agentic AI** | Multi-agent orchestration with LangGraph and CrewAI |
-| ◉ | **Serverless AI** | AWS Lambda deployments for LLM inference workloads |
-| ◉ | **Vector Databases** | FAISS, pgvector, and advanced RAG retrieval strategies |
-| ◉ | **Real-time Pipelines** | Streaming analytics with Kafka and Flink |
+| 🎬 | **Agentic AI** | Multi-agent orchestration with LangGraph and CrewAI |
+| 🎬 | **Serverless AI** | AWS Lambda deployments for LLM inference workloads |
+| 🎬 | **Vector Databases** | FAISS, pgvector, and advanced RAG retrieval strategies |
+| 🎬 | **Real-time Pipelines** | Streaming analytics with Kafka and Flink |
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="78%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
 <br/><br/>
 
-<sub>O P E N &nbsp; T O &nbsp; E N T E R P R I S E &nbsp; E N G I N E E R I N G &nbsp; &amp; &nbsp; A I / M L &nbsp; C O L L A B O R A T I O N S</sub>
-
-<br/><sub><a href="mailto:hemanglingam@gmail.com">hemanglingam@gmail.com</a></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00263A,100:00091C&height=60&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:141414&height=80&text=OPEN%20TO%20COLLABORATIONS%20ON%20AI%20%2F%20ML%20%26%20DATA%20ENGINEERING&fontSize=13&fontColor=808080&animation=fadeIn&fontAlignY=55"/>
 
 </div>
