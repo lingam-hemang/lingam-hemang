@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Gmail-Contact-FF9900?style=for-the-badge&logo=gmail&logoColor=232F3E"/>
 </a>
 &nbsp;
-<a href="https://github.com/hemanglingam">
-  <img src="https://komarev.com/ghpvc/?username=hemanglingam&style=for-the-badge&color=FF9900&label=PROFILE+VIEWS&labelColor=232F3E"/>
+<a href="https://github.com/lingam-hemang">
+  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=FF9900&label=PROFILE+VIEWS&labelColor=232F3E"/>
 </a>
 
 </div>
