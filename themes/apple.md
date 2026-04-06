@@ -17,7 +17,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/hemanglingam">
-  <img src="https://komarev.com/ghpvc/?username=hemanglingam&style=for-the-badge&color=0071E3&label=VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=0071E3&label=VIEWS"/>
 </a>
 
 </div>
