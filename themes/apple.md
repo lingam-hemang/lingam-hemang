@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Email-0071E3?style=for-the-badge&logo=gmail&logoColor=white&label="/>
 </a>
 &nbsp;
-<a href="https://github.com/hemanglingam">
+<a href="https://github.com/lingam-hemang">
   <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=0071E3&label=VIEWS"/>
 </a>
 
