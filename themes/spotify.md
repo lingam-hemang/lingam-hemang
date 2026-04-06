@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Gmail-Message-1DB954?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/hemanglingam">
-  <img src="https://komarev.com/ghpvc/?username=hemanglingam&style=for-the-badge&color=1DB954&label=LISTENERS"/>
+<a href="https://github.com/lingam-hemang">
+  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=1DB954&label=LISTENERS"/>
 </a>
 
 </div>
