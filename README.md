@@ -1,170 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:37475A,100:FF9900&height=210&section=header&text=Hemang%20Lingam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20Gen%20AI%20Developer%20%E2%80%A2%20Builder&descSize=16&descColor=FF9900&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00091C,100:00263A&height=200&text=Hemang%20Lingam.&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Software%20Engineer%20%E2%80%A2%20Gen%20AI%20Developer%20%E2%80%A2%20Builder&descSize=16&descColor=C8A951&descAlignY=72"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amazon+Ember&size=20&duration=2800&pause=900&color=FF9900&center=true&vCenter=true&width=700&lines=⚙+Python+%7C+Snowflake+%7C+SQL+—+Production+Grade;⚙+RAG+Pipelines+%26+LLM+Applications;⚙+AWS+Bedrock+%7C+LangChain+%7C+Full-Stack+AI;⚙+Building+end-to-end+%E2%80%94+from+pipeline+to+product)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3200&pause=1000&color=C8A951&center=true&vCenter=true&width=700&lines=Engineered+for+enterprise.;Built+for+scale+and+security.;From+pipeline+to+production+—+end+to+end.;Secure.+Stable.+Scalable.)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hemanglingam/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-FF9900?style=for-the-badge&logo=linkedin&logoColor=232F3E"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00263A?style=for-the-badge&logo=linkedin&logoColor=C8A951&label="/>
 </a>
 &nbsp;
 <a href="mailto:hemanglingam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-FF9900?style=for-the-badge&logo=gmail&logoColor=232F3E"/>
+  <img src="https://img.shields.io/badge/Email-00263A?style=for-the-badge&logo=gmail&logoColor=C8A951&label="/>
 </a>
 &nbsp;
 <a href="https://github.com/lingam-hemang">
-  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=FF9900&label=PROFILE+VIEWS&labelColor=232F3E"/>
+  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=00263A&label=VIEWS"/>
 </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ---
-
-<div align="center">
-<img src="https://img.shields.io/badge/⚙-SOLUTIONS%20OVERVIEW-FF9900?style=for-the-badge&logoColor=white&labelColor=232F3E"/>
-</div>
-
-<br/>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="58%">
 
-**`PROFILE`** &nbsp;|&nbsp; Specialist Programmer @ Infosys
+<h3>Introducing Hemang.</h3>
 
-```yaml
-Experience : 3+ Years · Production-grade systems
-Expertise  : Cloud Data · Gen AI · Full-Stack APIs
-Region     : India
-Status     : Active · Open to Collaborations
-```
+> Specialist Programmer. 3.5+ years shipping production-grade systems.<br/>
+> He builds what enterprise demands — secure, stable, and scalable.
 
-- ☁️ &nbsp;Engineering **cloud-native data platforms** — ETL, warehousing, and real-time ingestion
-- 🤖 &nbsp;Developing **Gen AI applications** — RAG pipelines, LLM tools, AWS Bedrock, Ollama
-- ⚙️ &nbsp;End-to-end builder: **Python · Snowflake · SQL · LangChain · Flask · Django**
-- 🔭 &nbsp;Deep-diving into **multi-agent AI**, **vector DBs**, and **serverless AI on Lambda**
-- 🎓 &nbsp;B.Tech ECE — SRM IST &nbsp;*(CGPA: 9.52 / 10)*
+&nbsp;
 
-> *"I ship only when it's done right — quality over quantity"*
+- Builds **cloud-native backend systems** — high-availability pipelines, distributed ingestion, and real-time Kafka streams at Apple's scale
+- Develops **Gen AI applications** — RAG pipelines, LLM tools, AWS Bedrock, agentic AI with LangChain
+- Writes clean, production-ready **Python, SQL, and REST APIs** backed by Django and Flask
+- Applies **SOLID principles, system design, and event-driven architecture** for fault isolation and horizontal scalability
+- B.Tech in ECE — SRM Institute of Science and Technology &nbsp;*(CGPA: 9.52 / 10)*
 
 </td>
 <td valign="top" width="42%" align="center">
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310"/>
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/⚙-CORE%20SERVICES-FF9900?style=for-the-badge&logoColor=white&labelColor=232F3E"/>
+<sub>W H A T &nbsp; H E &nbsp; B U I L D S</sub>
 </div>
 
 <br/>
 
 <div align="center">
-<table border="0" cellpadding="16">
+<table border="0" cellpadding="20">
 <tr>
-<td align="center" width="210">
+<td align="center" width="215">
 <img src="https://img.icons8.com/fluency/56/data-configuration.png"/><br/><br/>
-<b>Data Engineering</b><br/><br/>
-<sub>ETL/ELT · Snowflake · Airflow<br/>Kafka · AWS S3 · Warehousing</sub>
+<b>Backend Engineering</b><br/><br/>
+<sub>Python · Django · Flask · REST API<br/>Microservices · CI/CD · System Design</sub>
 </td>
-<td align="center" width="210">
+<td align="center" width="215">
 <img src="https://img.icons8.com/fluency/56/artificial-intelligence.png"/><br/><br/>
 <b>Gen AI &amp; LLM Apps</b><br/><br/>
-<sub>RAG · LangChain · AWS Bedrock<br/>Ollama · ChromaDB · Vectors</sub>
+<sub>RAG · LangChain · AWS Bedrock<br/>Agentic AI · ChromaDB · Vectors</sub>
 </td>
-<td align="center" width="210">
-<img src="https://img.icons8.com/fluency/56/api-settings.png"/><br/><br/>
-<b>Full-Stack APIs</b><br/><br/>
-<sub>Flask · Django · REST API<br/>scikit-learn · ML Inference</sub>
+<td align="center" width="215">
+<img src="https://img.icons8.com/fluency/56/cloud-computing.png"/><br/><br/>
+<b>Data &amp; Cloud Pipelines</b><br/><br/>
+<sub>Snowflake · Kafka · Airflow<br/>AWS S3 · Lambda · Distributed Systems</sub>
 </td>
 </tr>
 </table>
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/⚙-TECHNICAL%20STACK-FF9900?style=for-the-badge&logoColor=white&labelColor=232F3E"/>
+<sub>T E C H N I C A L &nbsp; S P E C I F I C A T I O N S</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-**`LANGUAGES`**
+**Languages**
 
 [![Skills](https://skillicons.dev/icons?i=python,java,mysql&theme=dark)](https://skillicons.dev)
 
-**`AI · GEN AI · ML`**
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-232F3E?style=for-the-badge&logo=langchain&logoColor=FF9900)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Ollama](https://img.shields.io/badge/Ollama-232F3E?style=for-the-badge&logoColor=FF9900)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-232F3E?style=for-the-badge&logoColor=FF9900)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-232F3E?style=for-the-badge&logo=scikitlearn&logoColor=FF9900)
+**AI / Gen AI / ML**
 
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+![LangChain](https://img.shields.io/badge/LangChain-00263A?style=for-the-badge&logo=langchain&logoColor=C8A951)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-00263A?style=for-the-badge&logo=amazonaws&logoColor=C8A951)
+![Ollama](https://img.shields.io/badge/Ollama-00263A?style=for-the-badge&logoColor=C8A951)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00263A?style=for-the-badge&logoColor=C8A951)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-00263A?style=for-the-badge&logo=scikitlearn&logoColor=C8A951)
 
-**`WEB · DATA`**
+[![Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**Web & Data**
 
 [![Skills](https://skillicons.dev/icons?i=flask,django&theme=dark)](https://skillicons.dev)
 
-![Snowflake](https://img.shields.io/badge/Snowflake-232F3E?style=for-the-badge&logo=snowflake&logoColor=FF9900)
-![Pandas](https://img.shields.io/badge/Pandas-232F3E?style=for-the-badge&logo=pandas&logoColor=FF9900)
-![Kafka](https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=apachekafka&logoColor=FF9900)
+![Snowflake](https://img.shields.io/badge/Snowflake-00263A?style=for-the-badge&logo=snowflake&logoColor=C8A951)
+![Pandas](https://img.shields.io/badge/Pandas-00263A?style=for-the-badge&logo=pandas&logoColor=C8A951)
+![Kafka](https://img.shields.io/badge/Kafka-00263A?style=for-the-badge&logo=apachekafka&logoColor=C8A951)
 
-**`CLOUD · TOOLS`**
+<br/>
+
+**Cloud & Tools**
 
 [![Skills](https://skillicons.dev/icons?i=aws,git,github,linux,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-![Airflow](https://img.shields.io/badge/Airflow-232F3E?style=for-the-badge&logo=apacheairflow&logoColor=FF9900)
-![Splunk](https://img.shields.io/badge/Splunk-232F3E?style=for-the-badge&logo=splunk&logoColor=FF9900)
+![Airflow](https://img.shields.io/badge/Airflow-00263A?style=for-the-badge&logo=apacheairflow&logoColor=C8A951)
+![Splunk](https://img.shields.io/badge/Splunk-00263A?style=for-the-badge&logo=splunk&logoColor=C8A951)
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/⚙-IN%20DEVELOPMENT-FF9900?style=for-the-badge&logoColor=white&labelColor=232F3E"/>
+<sub>W H A T ' S &nbsp; N E X T</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | Workstream | Delivery Target |
+| &nbsp; | Capability | Details |
 |:---:|:---|:---|
-| `[▓▓▓▓▓▓▓▓░░]` | **Agentic AI** — LangGraph & CrewAI multi-agent orchestration | In Progress |
-| `[▓▓▓▓▓▓░░░░]` | **Serverless AI** — AWS Lambda for LLM inference workloads | In Progress |
-| `[▓▓▓▓▓░░░░░]` | **Vector Databases** — FAISS, pgvector, advanced RAG strategies | In Progress |
-| `[▓▓▓░░░░░░░]` | **Real-time Pipelines** — Streaming analytics with Kafka & Flink | Planned |
+| ◉ | **Agentic AI** | Multi-agent orchestration with LangGraph and CrewAI |
+| ◉ | **Serverless AI** | AWS Lambda deployments for LLM inference workloads |
+| ◉ | **Vector Databases** | FAISS, pgvector, and advanced RAG retrieval strategies |
+| ◉ | **Real-time Pipelines** | Streaming analytics with Kafka and Flink |
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:37475A,100:232F3E&height=110&section=footer"/>
+---
 
-**Open to collaborations on AI/ML, Gen AI, and data engineering**
-<br/>
-<sub><a href="mailto:hemanglingam@gmail.com">hemanglingam@gmail.com</a></sub>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="78%"/>
+
+<br/><br/>
+
+<sub>O P E N &nbsp; T O &nbsp; E N T E R P R I S E &nbsp; E N G I N E E R I N G &nbsp; &amp; &nbsp; A I / M L &nbsp; C O L L A B O R A T I O N S</sub>
+
+<br/><sub><a href="mailto:hemanglingam@gmail.com">hemanglingam@gmail.com</a></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00263A,100:00091C&height=60&section=footer"/>
 
 </div>
