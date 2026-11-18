@@ -1,88 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:0d2b0d,100:1DB954&height=210&section=header&text=Hemang%20Lingam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20Gen%20AI%20Developer%20%E2%80%A2%20Builder&descSize=16&descColor=1DB954&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1c1c1e&height=200&text=Hemang%20Lingam.&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Data%20Engineer%20%E2%80%A2%20Gen%20AI%20Developer%20%E2%80%A2%20Builder&descSize=16&descColor=6e6e73&descAlignY=72"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular+Std&size=20&duration=2800&pause=900&color=1DB954&center=true&vCenter=true&width=680&lines=♫+Now+Playing%3A+Python+%7C+Snowflake+%7C+SQL;♫+On+Repeat%3A+RAG+Pipelines+%26+LLM+Apps;♫+New+Drop%3A+AWS+Bedrock+%26+LangChain;♫+In+Queue%3A+Multi-Agent+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=19&duration=3200&pause=1000&color=0071E3&center=true&vCenter=true&width=680&lines=Engineered+for+performance.;Designed+to+last.;Built+end-to-end+—+from+pipeline+to+product.;Intelligence%2C+delivered.)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hemanglingam/">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow-1DB954?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0071E3?style=for-the-badge&logo=linkedin&logoColor=white&label="/>
 </a>
 &nbsp;
 <a href="mailto:hemanglingam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Message-1DB954?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-0071E3?style=for-the-badge&logo=gmail&logoColor=white&label="/>
 </a>
 &nbsp;
 <a href="https://github.com/lingam-hemang">
-  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=1DB954&label=LISTENERS"/>
+  <img src="https://komarev.com/ghpvc/?username=lingam-hemang&style=for-the-badge&color=0071E3&label=VIEWS"/>
 </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ---
-
-<div align="center">
-<img src="https://img.shields.io/badge/●-NOW%20PLAYING-1DB954?style=for-the-badge&logoColor=white&labelColor=121212"/>
-</div>
-
-<br/>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="58%">
 
-**`TRACK 01`** &nbsp; — &nbsp; About the Artist
+<h3>Introducing Hemang.</h3>
 
-```
-Specialist Programmer @ Infosys
-3:00+ Years · Explicit Content (Production Grade)
-```
+> Specialist Programmer. 3+ years shipping production-grade systems.<br/>
+> He builds the full stack — from raw data to intelligent applications.
 
-- 🎵 &nbsp;Building **cloud-native data solutions** at scale
-- 🎧 &nbsp;Crafting **Gen AI apps** — RAG pipelines, LLM tools, agentic workflows
-- 🔊 &nbsp;End-to-end builder: **ETL → Data Warehouse → AI-powered Web App**
-- 🎼 &nbsp;Fluent in **Python, Snowflake, SQL, AWS Bedrock, LangChain**
-- 🌱 &nbsp;Sampling **multi-agent systems**, **vector DBs**, **serverless AI**
-- 🎓 &nbsp;B.Tech ECE — SRM IST &nbsp;*(CGPA: 9.52 / 10)*
+&nbsp;
 
-> *♫ "I ship only when it's done right — quality over quantity"*
+- Builds **cloud-native data platforms** — ETL pipelines, warehousing, and real-time ingestion at scale
+- Develops **Gen AI applications** — RAG pipelines, LLM tools, AWS Bedrock, local inference with Ollama
+- Writes clean, production-ready **Python, SQL, and API-first backends** in Flask and Django
+- Currently going deeper into **multi-agent AI**, **vector databases**, and **serverless LLM workloads**
+- B.Tech in ECE — SRM Institute of Science and Technology &nbsp;*(CGPA: 9.52 / 10)*
 
 </td>
 <td valign="top" width="42%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
-
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310"/>
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/●-YOUR%20MIX-1DB954?style=for-the-badge&logoColor=white&labelColor=121212"/>
+<sub>W H A T &nbsp; H E &nbsp; B U I L D S</sub>
 </div>
 
 <br/>
 
 <div align="center">
-<table border="0" cellpadding="16">
+<table border="0" cellpadding="20">
 <tr>
-<td align="center" width="210">
+<td align="center" width="215">
 <img src="https://img.icons8.com/fluency/56/data-configuration.png"/><br/><br/>
 <b>Data Engineering</b><br/><br/>
 <sub>ETL/ELT · Snowflake · Airflow<br/>Kafka · AWS S3 · Warehousing</sub>
 </td>
-<td align="center" width="210">
+<td align="center" width="215">
 <img src="https://img.icons8.com/fluency/56/artificial-intelligence.png"/><br/><br/>
 <b>Gen AI &amp; LLM Apps</b><br/><br/>
 <sub>RAG · LangChain · AWS Bedrock<br/>Ollama · ChromaDB · Vectors</sub>
 </td>
-<td align="center" width="210">
+<td align="center" width="215">
 <img src="https://img.icons8.com/fluency/56/api-settings.png"/><br/><br/>
 <b>Full-Stack APIs</b><br/><br/>
 <sub>Flask · Django · REST API<br/>scikit-learn · ML Inference</sub>
@@ -91,80 +85,96 @@ Specialist Programmer @ Infosys
 </table>
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/●-PLAYLIST-1DB954?style=for-the-badge&logoColor=white&labelColor=121212"/>
+<sub>T E C H N I C A L &nbsp; S P E C I F I C A T I O N S</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-**`LANGUAGES`**
+**Languages**
 
 [![Skills](https://skillicons.dev/icons?i=python,java,mysql&theme=dark)](https://skillicons.dev)
 
-**`AI · GEN AI · ML`**
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=1DB954)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-121212?style=for-the-badge&logo=amazonaws&logoColor=1DB954)
-![Ollama](https://img.shields.io/badge/Ollama-121212?style=for-the-badge&logoColor=1DB954)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-121212?style=for-the-badge&logoColor=1DB954)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-121212?style=for-the-badge&logo=scikitlearn&logoColor=1DB954)
+**AI / Gen AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1c1c1e?style=for-the-badge&logo=langchain&logoColor=0071E3)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-1c1c1e?style=for-the-badge&logo=amazonaws&logoColor=0071E3)
+![Ollama](https://img.shields.io/badge/Ollama-1c1c1e?style=for-the-badge&logoColor=0071E3)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1c1c1e?style=for-the-badge&logoColor=0071E3)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1c1c1e?style=for-the-badge&logo=scikitlearn&logoColor=0071E3)
 
 [![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
-**`WEB · DATA`**
+<br/>
+
+**Web & Data**
 
 [![Skills](https://skillicons.dev/icons?i=flask,django&theme=dark)](https://skillicons.dev)
 
-![Snowflake](https://img.shields.io/badge/Snowflake-121212?style=for-the-badge&logo=snowflake&logoColor=1DB954)
-![Pandas](https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=1DB954)
-![Kafka](https://img.shields.io/badge/Kafka-121212?style=for-the-badge&logo=apachekafka&logoColor=1DB954)
+![Snowflake](https://img.shields.io/badge/Snowflake-1c1c1e?style=for-the-badge&logo=snowflake&logoColor=0071E3)
+![Pandas](https://img.shields.io/badge/Pandas-1c1c1e?style=for-the-badge&logo=pandas&logoColor=0071E3)
+![Kafka](https://img.shields.io/badge/Kafka-1c1c1e?style=for-the-badge&logo=apachekafka&logoColor=0071E3)
 
-**`CLOUD · TOOLS`**
+<br/>
+
+**Cloud & Tools**
 
 [![Skills](https://skillicons.dev/icons?i=aws,git,github,linux,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-![Airflow](https://img.shields.io/badge/Airflow-121212?style=for-the-badge&logo=apacheairflow&logoColor=1DB954)
-![Splunk](https://img.shields.io/badge/Splunk-121212?style=for-the-badge&logo=splunk&logoColor=1DB954)
+![Airflow](https://img.shields.io/badge/Airflow-1c1c1e?style=for-the-badge&logo=apacheairflow&logoColor=0071E3)
+![Splunk](https://img.shields.io/badge/Splunk-1c1c1e?style=for-the-badge&logo=splunk&logoColor=0071E3)
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/●-UP%20NEXT-1DB954?style=for-the-badge&logoColor=white&labelColor=121212"/>
+<sub>W H A T ' S &nbsp; N E X T</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | Track | Preview |
+| &nbsp; | Capability | Details |
 |:---:|:---|:---|
-| ♫ | **Agentic AI** | Multi-agent orchestration with LangGraph and CrewAI |
-| ♫ | **Serverless AI** | AWS Lambda deployments for LLM inference workloads |
-| ♫ | **Vector Databases** | FAISS, pgvector, and advanced RAG retrieval strategies |
-| ♫ | **Real-time Pipelines** | Streaming analytics with Kafka and Flink |
+| ◉ | **Agentic AI** | Multi-agent orchestration with LangGraph and CrewAI |
+| ◉ | **Serverless AI** | AWS Lambda deployments for LLM inference workloads |
+| ◉ | **Vector Databases** | FAISS, pgvector, and advanced RAG retrieval strategies |
+| ◉ | **Real-time Pipelines** | Streaming analytics with Kafka and Flink |
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,50:0d2b0d,100:121212&height=110&section=footer&fontSize=13&fontColor=808080"/>
+---
 
-*Open to collaborations on AI/ML, Gen AI, and data engineering*
-<br/>
-<sub><a href="mailto:hemanglingam@gmail.com">hemanglingam@gmail.com</a></sub>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="78%"/>
+
+<br/><br/>
+
+<sub>O P E N &nbsp; T O &nbsp; C O L L A B O R A T I O N S &nbsp; O N &nbsp; A I / M L &nbsp; &amp; &nbsp; D A T A &nbsp; E N G I N E E R I N G</sub>
+
+<br/><sub><a href="mailto:hemanglingam@gmail.com">hemanglingam@gmail.com</a></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1c1c1e,100:000000&height=60&section=footer"/>
 
 </div>
